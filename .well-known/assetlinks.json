@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hoc68.hoahoc",
+    "sha256_cert_fingerprints": ["71:7E:14:5B:97:63:58:29:8E:38:6A:BF:F2:88:E3:77:BB:88:F8:99:91:CC:80:D8:22:0A:7A:18:47:5E:76:8A"]
+  }
+}]
